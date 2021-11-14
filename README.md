@@ -2,7 +2,7 @@
 # Data Science Portfolio
 Thi repository is containing portfolio of data science projects completed by me for self learning, academic and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
 
-For a more visually pleasant experience for browsing the portfolio, check out (https://roman1117459.github.io/My_Portfolio/)
+For a more visually pleasant experience for browsing the portfolio, check out (https://roman1117459.github.io/My_Portfolio_website/)
 
 
 ## Contents
